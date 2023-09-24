@@ -11,3 +11,4 @@ I am working my way through the JavaScript30 Challenge by Wes Bos to gain more e
 6. Ajax Type Ahead
 7. Array Cardio Day 2
 8. Fun With HTML5 Canvas
+9. 14 Must Know Dev Tools Tricks
